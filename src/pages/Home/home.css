@@ -1,0 +1,10 @@
+.carousel-inner{
+    height:600px;
+    max-width:1400px;
+}
+
+.footer{
+    position: relative;
+    bottom: 0;
+    height: 50px;
+}
